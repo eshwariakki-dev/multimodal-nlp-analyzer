@@ -13,3 +13,4 @@ temp.mp4
 # OS files
 .DS_Store
 Thumbs.db
+models/
