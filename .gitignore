@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+# temp files
+temp.wav
+temp.mp4
+
+# sample media
+*.wav
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
